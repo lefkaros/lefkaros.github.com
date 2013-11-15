@@ -1,0 +1,15 @@
+---
+layout: page
+---
+{% for gallery in page.galleries %}
+<div style="width: 35em; text-align: center; padding: 1em 0 4em 0;">
+    <a href="{{ gallery['gallery'] }}">
+        <img style="max-height: 20em; max-width: 20em;" src="{{ gallery['gallery'] }}/thumbs/{{ gallery['best_image'] }}">
+    </a>
+    <h3><a href="{{ gallery['gallery'] }}">{{ gallery["name"] }}</a></h3>
+    {{ gallery["images"] | size }} εικόνες
+</div>
+{% endfor %}
+
+<p>Παρακαλούμε τους γονείς των ανήλικων αθλητών που επιθυμούν οι φωτογραφίες των παιδιών τους να αναρτηθούν στο site να εκτυπώσουν <a href="/docs/Sigatathesi.pdf">αυτή</a> τη δήλωση και να την παραδώσουν στον Σύλλογο.
+</p>

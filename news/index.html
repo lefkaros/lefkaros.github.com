@@ -1,0 +1,26 @@
+---
+layout: page
+title : Νέα
+header : 
+group: navigation
+---
+{% include JB/setup %}
+
+<div class="row-fluid">
+ <div class="span9">
+  	{% assign post = site.posts.first %}
+	{% assign content = post.content %}
+	{% include post_detail.html %}
+  </div>
+
+  <div class="span3">
+  
+  <h3>Αρχείο:</h3>
+  <hr>
+	{% assign posts_collate = site.posts %}
+	{% include JB/posts_collate %}
+	</span>
+ </div>
+  
+</div>
+
