@@ -29,6 +29,6 @@ tags: []
 <div style="float: left;">
 Ο ΠΡΟΕΔΡΟΣ<br>
 ΓΕΡΑΣΙΜΟΣ ΜΑΡΚΕΤΟΣ</div>
-<div style="float: right;" align="right">
+<div style="float: right;">
 Η ΓΕΝ. ΓΡΑΜΜΑΤΕΑΣ<br>
 Μ.ΦΑΡΑΚΛΑ</div>
