@@ -157,11 +157,6 @@ gallery:
       best_image: IMG_1166.jpg
     General:
       best_image: 61768_1420733797972_1221486040_31004993_7889655_n.jpg
-    "Λευκάρεια 2013":
+    Lefkareia_2013:
+      name: "Λευκάρεια 2013"
       best_image: 1527135_729558273740663_1826753811_n.jpg 
-
-#https://github.com/matthewowen/jekyll-slideshow
-
-slideshow:
-  width: 150
-  height: 100
