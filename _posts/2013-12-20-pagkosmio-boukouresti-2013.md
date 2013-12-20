@@ -2,7 +2,7 @@
 layout: post
 title: "Δελτίο Παγκοσμίου Πρωταθλήματος Εφήβων-Νεανίδων και Νέων Ανδρών-Νέων Γυναικών, Βουκουρέστι 2013"
 description: ""
-category: Δελτίο Τύπου
+category: 
 tags: []
 ---
 {% include JB/setup %}
