@@ -136,7 +136,7 @@ JB :
   
 gallery:
   # path to the gallery
-  dir: photos
+  dir: lphotos
   # title for gallery index
   title: "Φωτογραφίες"
   # title prefix for gallery page. title=title_prefix+gallery_name
